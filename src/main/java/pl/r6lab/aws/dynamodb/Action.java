@@ -1,4 +1,4 @@
-package com.r6lab.aws.dynamodb;
+package pl.r6lab.aws.dynamodb;
 
 public enum Action {
     BATCH_GET_ITEM("BatchGetItem"),
